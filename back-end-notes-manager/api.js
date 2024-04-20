@@ -6,7 +6,6 @@ const url =require('url');
 
 //inport cors- cross origin resource sharing
 const cors= require('cors');
-
 //create an object for express
 var api =express();
 
