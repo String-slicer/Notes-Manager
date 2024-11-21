@@ -48,7 +48,7 @@ Follow the steps below to set up the project locally:
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/username/notes-manager.git  
+   git clone https://github.com/String-slicer/notes-manager.git  
    cd notes-manager  
    ```  
 
